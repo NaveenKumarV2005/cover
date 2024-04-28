@@ -31,7 +31,8 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''<style>
+'''
+<style>
     .bookpage{
         width: 400px;
         height: 600px;
