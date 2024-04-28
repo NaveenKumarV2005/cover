@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-'''
+```
 <style>
     .bookpage{
         width: 400px;
@@ -138,7 +138,7 @@ Publish the website in the LocalHost.
         </div>
     </div>
     </body>
-'''
+```
 
 ## OUTPUT:
 
